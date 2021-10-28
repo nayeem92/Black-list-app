@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026888008058",
+    "project_id": "blacklist-d4595",
+    "storage_bucket": "blacklist-d4595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026888008058:android:1339514a01feffdce896c3",
+        "android_client_info": {
+          "package_name": "com.example.black_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026888008058-tu3pbcavkv9sl69f7ik7j6hbhefkb203.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJzAM21jtHEUYJW7jDwG39mZpYcjaDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026888008058-tu3pbcavkv9sl69f7ik7j6hbhefkb203.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
